@@ -1,4 +1,4 @@
-# StrataWise — Depreciation Report System
+# StrataWise — Depreciation Report System 
 
 ## Deploy to Netlify in 5 steps
 
